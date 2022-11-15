@@ -113,7 +113,6 @@
 
 
 
-
 //1.5 задание
 // import 'dart:io';
 // import 'dart:math';
@@ -122,8 +121,8 @@
 // String a =  stdin.readLineSync ()!;
 
 
-
 // int v = 1;
+// if (a!=""){
 // for (int i = 0; i<a.length;i++){
 //   if (a[i]==" "){
 //   v = v + 1;
@@ -131,5 +130,10 @@
 
 // }
 // print("Kolvo slov= $v");
+// }
+// else {
+//   print("Kolvo slov= 0");
+
+// }
 // print("Start: $a :End");
 // }
